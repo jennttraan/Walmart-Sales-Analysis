@@ -1,0 +1,9 @@
+Here we have analyzed some data pertaining to Walmart. After cleaning the data, mostly fixing dates and times, we have found insights that will be useful to Walmart management and stakeholders to not only ensure that they have inventory stocked for their most popular products and product lines, but also to kn ow which kind if cutomers to cater to and in what areas.
+
+1. Walmart should consider catering to women and fashion accessories and they sell the most.
+2. Walmart should also consider adding in Apple Pay as a form of payment as Ewallets are the second most popular way to way.
+3. Most popular product lines/ categories are fashion and food.
+4. January had the largest COGS.
+5. The most revenue made at Walmart was from food and beverages least was health and beauty.
+6. Home and lifestyle products have the most added tax.
+7. Best rated products are food and beverages, least is home and lifestyle.
