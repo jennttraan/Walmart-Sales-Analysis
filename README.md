@@ -5,9 +5,11 @@
 Analyze Walmart sales data to determine what kind of items sell the best and how can Walmart market themselves better to their clientele.
 
 ## Data Source
-All data set used can be found [here]([https://github.com/jennttraan/Walmart-Sales-Analysis/blob/main/EDA%20for%20Walmart%20Sales](https://github.com/jennttraan/Walmart-Sales-Analysis/blob/main/WalmartSalesData.csv.csv). 
+All data set used can be found [here](https://github.com/jennttraan/Walmart-Sales-Analysis/blob/main/WalmartSalesData.csv.csv). 
 
 ## Cleaning And Processing The Data
+
+Complete data cleaning can be found [here](https://github.com/jennttraan/Walmart-Sales-Analysis/blob/main/EDA%20for%20Walmart%20Sales) and [here](https://github.com/jennttraan/Walmart-Sales-Analysis/blob/main/Data%20Cleaning).
 
 I spent some time finding unique differences between items and found the most popular items and the most common customers.
 
