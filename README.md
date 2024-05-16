@@ -1,5 +1,6 @@
 # Walmart Sales Analysis
 
+![walmart_logo](https://github.com/jennttraan/Walmart-Sales-Analysis/assets/144400508/f6ef8f79-e4c6-42e0-b4b9-21f4203c50a5)
 
 
 ## Business Task
