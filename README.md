@@ -7,7 +7,7 @@
 Analyze Walmart sales data to determine what kind of items sell the best and how can Walmart market themselves better to their clientele.
 
 ## Data Source
-All data set used can be found [here](https://github.com/jennttraan/Walmart-Sales-Analysis/blob/main/WalmartSalesData.csv.csv). 
+All data sets used can be found [here](https://github.com/jennttraan/Walmart-Sales-Analysis/blob/main/WalmartSalesData.csv.csv). 
 
 ## Cleaning And Processing The Data
 
